@@ -12,3 +12,5 @@
 
 6- Use VGGAnnotator tool for Annotations.
 
+## To understand the functionality, Check this video:  https://youtu.be/t1MrzuAUdoE
+
